@@ -1,9 +1,5 @@
 <div align="center">
 
-# George Gallagher
-
-**Independent researcher & builder · United Kingdom**
-
 Exploring how AI systems can remember, reason, and act with evidence and explicit permissions.
 
 [Magpie](https://github.com/noctem-o/magpie) · [Deadbolt](https://github.com/noctem-o/deadbolt) · [Cogitator](https://github.com/noctem-o/cogitator)
