@@ -1,5 +1,7 @@
 <div align="center">
 
+# George Gallagher
+
 Exploring how AI systems can remember, reason, and act with evidence and explicit permissions.
 
 [Magpie](https://github.com/noctem-o/magpie) · [Deadbolt](https://github.com/noctem-o/deadbolt) · [Cogitator](https://github.com/noctem-o/cogitator)
