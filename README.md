@@ -2,7 +2,7 @@
 
 # George Gallagher
 
-Exploring how AI systems can remember, reason, and act with evidence and explicit permissions and exploring AI safety and accountability through local-first systems.
+Exploring how AI systems can remember, reason, and act with evidence and explicit permissions while exploring AI safety and accountability through local-first systems.
 
 I build experimental tools for inspectable agent memory, explicit permissions, and verifiable execution records.
 
