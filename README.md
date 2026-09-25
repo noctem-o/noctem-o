@@ -1,16 +1,25 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**noctem-o/noctem-o** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# George Gallagher
 
-Here are some ideas to get you started:
+**Independent researcher & builder · United Kingdom**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Exploring how AI systems can remember, reason, and act with evidence and explicit permissions.
+
+[Magpie](https://github.com/noctem-o/magpie) · [Deadbolt](https://github.com/noctem-o/deadbolt) · [Cogitator](https://github.com/noctem-o/cogitator)
+
+</div>
+
+---
+
+I’m interested in systems people can inspect: where a remembered claim came from, what a check actually established, and who authorised an action. My work explores these questions through small, testable implementations.
+
+## Selected projects
+
+| Project | Focus |
+| :--- | :--- |
+| **[Magpie](https://github.com/noctem-o/magpie)** | A replayable memory kernel for AI systems. Signed history, explicit evidence, and policy-defined conclusions. |
+| **[Deadbolt](https://github.com/noctem-o/deadbolt)** | A permission engine for AI-operated systems. Models propose actions; authority remains outside the model. |
+| **[Cogitator](https://github.com/noctem-o/cogitator)** | A Rust recorder and verifier for agent runs, with tamper-evident records and reproducible verification. |
+
+These are **experimental research projects**, developed with an emphasis on clear boundaries, adversarial testing, and documented limitations.
