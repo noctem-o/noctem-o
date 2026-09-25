@@ -2,7 +2,9 @@
 
 # George Gallagher
 
-Exploring how AI systems can remember, reason, and act with evidence and explicit permissions.
+Exploring how AI systems can remember, reason, and act with evidence and explicit permissions and exploring AI safety and accountability through local-first systems.
+
+I build experimental tools for inspectable agent memory, explicit permissions, and verifiable execution records.
 
 [Magpie](https://github.com/noctem-o/magpie) · [Deadbolt](https://github.com/noctem-o/deadbolt) · [Cogitator](https://github.com/noctem-o/cogitator)
 
