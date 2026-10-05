@@ -105,7 +105,7 @@ RL is one possible adaptation mechanism. Training can produce a candidate; it do
 **Languages:** Rust · TypeScript/Bun · Python · Bash/PowerShell  
 **Agent/runtime:** Pi · MCP · ACP · OpenAI-compatible APIs · local agent harnesses  
 **Inference:** llama.cpp · vLLM · SGLang · TensorRT-LLM · CUDA · GGUF · quantisation · long-context serving  
-**Systems:** Linux · Nix/NixOS · systemd · containers/virtualisation · networking · low-level debugging  
+**Systems:** Linux · Arch/NixOS · systemd · containers/virtualisation · networking · low-level debugging  
 **Delivery:** GitHub Actions · reproducible environments · conformance testing · golden fixtures · cargo-dist · release verification
 
 I use frontier and local models as a structured engineering workforce: architecture-first decomposition, bounded implementation briefs, maker/checker separation, adversarial review and human-controlled promotion.
