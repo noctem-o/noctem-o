@@ -127,6 +127,6 @@ These projects are experimental research software. I try to keep claims narrow, 
 
 **Make capability legible before making it larger.**
 
-[recensionresearch.co.uk](https://recensionresearch.co.uk) · [george@recensionresearch.co.uk](mailto:george@recensionresearch.co.uk)
+[recensionresearch.co.uk](https://recensionresearch.co.uk)
 
 </div>
