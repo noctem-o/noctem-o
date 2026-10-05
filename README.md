@@ -8,7 +8,6 @@
 
 <p>
   <a href="https://recensionresearch.co.uk"><img src="https://img.shields.io/badge/Recension%20Research-59D6A3?style=flat-square&labelColor=0A0D0F" alt="Recension Research"></a>
-  <a href="mailto:george@recensionresearch.co.uk"><img src="https://img.shields.io/badge/email-george%40recensionresearch.co.uk-536c85?style=flat-square" alt="Email"></a>
   <img src="https://img.shields.io/badge/Greater%20Manchester-UK-637d69?style=flat-square" alt="Greater Manchester, UK">
 </p>
 
