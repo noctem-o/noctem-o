@@ -82,11 +82,13 @@ perturbation invariance    does behaviour hold when an input that should not mat
 
 The useful outcome is not a prettier benchmark number. It is a better experimental instrument: one that can expose where sampling, environment, control flow and harness policy actually change an agent trajectory.
 
-The runtime surface now extends beyond one harness: the merged [ACP v1 vertical slice](https://github.com/noctem-o/endophasia/pull/37) exercised a real OMP session through the standard protocol, while the separate [ACP v2 conformance study](https://github.com/noctem-o/endophasia/pull/47) pins the Draft v2 baseline, tests negotiation, replay and permission semantics against deterministic agents, and deliberately admits no v2 capability merely from protocol compatibility.
+The runtime surface now extends beyond one harness: the merged [ACP v1 vertical slice](https://github.com/noctem-o/endophasia/pull/37) exercised a real OMP session through the standard protocol, while the separate [ACP v2 conformance study](https://github.com/noctem-o/endophasia/pull/47) pins a Draft v2 baseline, tests negotiation, replay and permission semantics against deterministic agents, and deliberately admits no v2 capability merely from protocol compatibility. That v2 study is complete and parked pending upstream stabilisation rather than chased as a moving draft.
 
-## Evaluation-driven adaptation
+## Operator Alpha and evaluation-driven adaptation
 
-The next layer is **EVOLVE**: treating prompts, cognition policies, harness components, tools, memory, models, environments and inference budgets as explicit candidate changes.
+The immediate Endophasia milestone is **Operator Alpha**: make the existing instrument something a person can install and run through a distributable, versioned `endo` CLI before broadening the research surface.
+
+Beyond that operator layer, **EVOLVE** treats prompts, cognition policies, harness components, tools, memory, models, environments and inference budgets as explicit candidate changes.
 
 ```text
 observe → propose → isolate → evaluate → compare → admit → promote
@@ -109,7 +111,9 @@ Beyond the current Endophasia build, I am starting to frame a separate line of r
 
 The current design keeps the claim narrow: separate **epistemic-content effects** from **timing effects**, use synthetic microworlds with exact gold outcomes, keep Magpie as a shadow evidence / provenance / standing surface rather than a truth oracle, and treat null or reversed results as first-class outcomes.
 
-[Developmental epistemic training v0](https://github.com/noctem-o/endophasia/blob/main/research/developmental-epistemic-training-v0.md) is the substrate-side research contract and preregistration draft. [developmental-epistemics](https://github.com/noctem-o/developmental-epistemics) is the concept-only longer-horizon repository.
+A second question is measurement: whether developmental state can be described more precisely than training step alone. [*What Do Language Models Learn and When? The Implicit Curriculum Hypothesis*](https://arxiv.org/abs/2604.08510) and its open [ElementalTask](https://github.com/KaiserWhoLearns/ElementalTask) tooling provide useful emergence-order and trajectory baselines. I treat those as instrumentation, not as evidence that an early epistemic curriculum is causally better.
+
+[Developmental epistemic training v0](https://github.com/noctem-o/endophasia/blob/main/research/developmental-epistemic-training-v0.md) is the substrate-side research contract and preregistration draft. [developmental-epistemics](https://github.com/noctem-o/developmental-epistemics) is the MIT-licensed, concept-only longer-horizon repository.
 
 ## Engineering surface
 
